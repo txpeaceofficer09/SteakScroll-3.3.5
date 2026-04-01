@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Steak Scroll
+## Notes: Make spell book and vendors change pages with mouse wheel.
+## Author: Soonbesteak
+## Version: 1.0.0
+Core.lua
